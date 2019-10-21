@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class recursive {
+public class iterativ {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		
